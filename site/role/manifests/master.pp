@@ -1,4 +1,4 @@
 class role::master{
   include profile::base
-  include profile::agent_nodes
+  include profile::node_agents
 }
